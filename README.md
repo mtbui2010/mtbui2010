@@ -9,7 +9,7 @@ Morgan Hill, CA &nbsp;·&nbsp; 🟢 U.S. Green Card &nbsp;·&nbsp; Open to ML En
 [![Email](https://img.shields.io/badge/bmtrungvp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bmtrungvp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/trung-m-bui-244562160)
 [![Website](https://img.shields.io/badge/aistations.org-111111?style=flat-square&logo=safari&logoColor=white)](https://aistations.org)
-[![Scholar](https://img.shields.io/badge/Google%20Scholar-40%2B%20citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1UB5mFQAAAAJ&hl=en)
+[![Scholar](https://img.shields.io/badge/Google%20Scholar-341%20citations%20%7C%20h--index%3A4%20%7C%20i10%3A2-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1UB5mFQAAAAJ&hl=en)
 
 </div>
 
@@ -42,7 +42,7 @@ Morgan Hill, CA &nbsp;·&nbsp; 🟢 U.S. Green Card &nbsp;·&nbsp; Open to ML En
 | [**carerobotagent**](https://github.com/mtbui2010/carerobotagent) | LangGraph multi-agent care robot — Whisper STT, intent routing, task planning, ROS2 execution, auto-replan, dual memory | LangGraph · LangChain · AI2-THOR · SQLite · ChromaDB · Streamlit | Full MARS stack |
 | [**pyplanner**](https://github.com/mtbui2010/pyplanner) | Pluggable LLM planning library — 7 methods (CoT, ReAct, Self-Refine, Hierarchical, LLM Router…) — AI2-THOR benchmark · [live demo ↗](https://demo-planner.aistations.org) | Python · OpenAI · Anthropic · Ollama | 7 planning methods |
 | [**groundingdino_tool**](https://github.com/mtbui2010/groundingdino_tool) | Semi-auto labeling: GroundingDINO → FastSAM → human verify → YOLOv8 fine-tune loop; targets long-tail | Python · Streamlit · GroundingDINO · FastSAM | Active learning |
-| [**Single-Image-Dehazing**](https://github.com/mtbui2010/Single-Image-Dehazing-using-Color-Ellipsoid-Prior) | PhD research — Color Ellipsoid Prior for single-image dehazing | Python | IEEE TIP 2018 · **32 citations** |
+| [**Single-Image-Dehazing**](https://github.com/mtbui2010/Single-Image-Dehazing-using-Color-Ellipsoid-Prior) | PhD research — Color Ellipsoid Prior for single-image dehazing | Python | IEEE TIP 2018 · **288 citations** |
 
 ---
 
@@ -87,7 +87,7 @@ Docker · FastAPI · Next.js · Streamlit · Vercel · RunPod serverless GPU
 |------|-------|-------|-----------|
 | 2025 | [**A Fine-Aware Vision Transformer for Precision Grasp Pose Detection**](https://www.jstage.jst.go.jp/article/transinf/E108.D/11/E108.D_2024EDP7261/_article) | *IEICE Transactions on Information and Systems* | — |
 | 2025 | **Development of a Mobile Assistive Robot for Daily Living Support** | *Ubiquitous Robots* | — |
-| 2018 | **Single Image Dehazing Using Color Ellipsoid Prior** | *IEEE Transactions on Image Processing* **(Q1)** | **32** |
+| 2018 | **Single Image Dehazing Using Color Ellipsoid Prior** | *IEEE Transactions on Image Processing* **(Q1)** | **288** |
 | 2014 | **Segmenting Dark Channel Prior in Single Image Dehazing** | *IET Electronics Letters* | 5 |
 
 ---
@@ -115,7 +115,7 @@ Korea Electronics Technology Institute (KETI) · Seongnam, South Korea · Mar 20
 | **M.Eng., Computer Vision** | Kyung Hee University, South Korea | 2011 – 2014 |
 | **B.Eng., Electrical & Electronics** | HCMC University of Technology, Vietnam | 2005 – 2010 |
 
-*Ph.D. thesis: basis of IEEE TIP 2018 publication — 32 citations*
+*Ph.D. thesis: basis of IEEE TIP 2018 publication — 288 citations*
 
 ---
 
